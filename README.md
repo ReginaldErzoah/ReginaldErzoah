@@ -12,7 +12,3 @@ Let's connect and collaborate
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,sklearn,postgres,figma" height="35"/>
 </p>
-
-### Data Jokes
-
-<img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
