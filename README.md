@@ -10,7 +10,7 @@ Let's connect and collaborate
 
 ### Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,sklearn,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,sklearn,streamlit,mysql,postgres,figma" height="35"/>
 </p>
 
 
