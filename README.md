@@ -9,6 +9,7 @@ Feel free to explore my projects and see what I'm building.
 Let's connect and collaborate
 
 ### Tech Stack
+--------------------------
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,sklearn,postgres,figma" height="35"/>
 </p>
