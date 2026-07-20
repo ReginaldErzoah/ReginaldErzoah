@@ -8,14 +8,12 @@ I am a data professional dedicated to applying machine learning, data analytics,
 
 
 Also an open source contributor.
-
 Maintainer of Dift & Aniwa.
 
 Website: https://reginalderzoah.github.io/
 
 Feel free to explore my projects and see what I'm building.
 Let's connect and collaborate!
-
 
 ---
 
