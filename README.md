@@ -20,4 +20,7 @@ Let's connect and collaborate!
 ---
 
 ### Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,sklearn,postgres,mysql,docker,terraform,cloudflare,git,github,vscode,figma" height="35"/> </p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,numpy,pandas,postgres,mysql,docker,fastapi,terraform,cloudflare,githubactions,git,github,linux,vscode,figma" height="35" />
+</p>
