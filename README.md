@@ -1,6 +1,6 @@
 ## Hi there! I'm Reginald
 
-Seeing how best I can learn, build, and grow in the data space.
+How best I can learn, build, and grow in the data space?
 
 Actively helping build a data-driven culture through data systems.
 
