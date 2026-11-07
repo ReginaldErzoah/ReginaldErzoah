@@ -1,19 +1,16 @@
 ## Hi there! I'm Reginald
 
-How best I can learn, build, and grow in the data space?
+I am a data professional focused on building reliable, scalable, and intelligent data systems through DataOps and MLOps.
 
-Actively helping build a data-driven culture through data systems.
+My interests span data engineering, analytics, business intelligence, machine learning, and intelligent decision systems. 
 
-I am a data professional dedicated to applying machine learning, data analytics, and business intelligence to solve real-world problems, operationalize ML pipelines, and build scalable, production-ready solutions.
+I enjoy applying these disciplines to solve real-world problems, improve data reliability, and enable better decision-making.
 
+I actively build practical solutions, explore emerging technologies, and contribute to open-source projects.
 
-Also an open source contributor.
+I believe the future belongs to systems that don't just process data but make it reliable, useful, and actionable.
 
-Maintainer of Dift & Aniwa.
-
-Website: https://reginalderzoah.github.io/
-
-Feel free to explore my projects and see what I'm building.
+Also enjoy teaching what I know.
 
 Let's connect and collaborate!
 
