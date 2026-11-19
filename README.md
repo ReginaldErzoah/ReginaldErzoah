@@ -12,7 +12,7 @@ I believe the future belongs to systems that don't just process data but make it
 
 Also enjoy teaching what I know.
 
-Let's connect and collaborate!
+Let's connect and collaborate.
 
 ---
 
